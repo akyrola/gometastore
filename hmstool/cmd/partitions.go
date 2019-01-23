@@ -19,8 +19,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/akolb1/gometastore/hmsclient/thrift/gen-go/hive_metastore"
-	"github.com/akolb1/gometastore/hmstool/hmsutil"
+	"github.com/akyrola/gometastore/hmsclient/thrift/gen-go/hive_metastore"
+	"github.com/akyrola/gometastore/hmstool/hmsutil"
 	"github.com/spf13/cobra"
 )
 

@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/akolb1/gometastore/hmstool/cmd"
+import "github.com/akyrola/gometastore/hmstool/cmd"
 
 func main() {
 	cmd.Execute()
